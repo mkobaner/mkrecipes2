@@ -1,0 +1,26 @@
+* {
+    background-color: #5A5BF3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color:#91E7D9;
+    font-size: 75px;
+   
+}
+
+li{
+    color: #91E7D9;
+    font-size: 35px;
+}
+
+a:visited {
+    color:#91E7D9;
+}
+a{
+    color:#91E7D9;
+}
+
+h3 {
+    color: #91E7D9;
+}
